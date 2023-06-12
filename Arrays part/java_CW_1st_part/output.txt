@@ -1,0 +1,12 @@
+cabin1:aaa
+cabin2:qqq
+cabin3:empty
+cabin4:empty
+cabin5:empty
+cabin6:empty
+cabin7:empty
+cabin8:empty
+cabin9:empty
+cabin10:empty
+cabin11:empty
+cabin12:empty
